@@ -18,8 +18,8 @@ const Login = () => {
     },
     buttons: {
       primary: {
-        backgroundColor: "#4A37BE",
-        borderColor: "#4A37BE",
+        backgroundColor: "#3300ff",
+        borderColor: "#3300ff",
       },
     },
   };
